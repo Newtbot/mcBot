@@ -11,7 +11,7 @@
     "dev": "node --watch src/index.js"
   },
   "dependencies": {
-    "axios": "^1.19.0",
+    "axios": "^1.20.0",
     "dotenv": "^16.4.5",
     "mineflayer": "^4.23.1",
     "mineflayer-auto-eat": "^5.0.3"
